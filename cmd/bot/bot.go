@@ -101,7 +101,6 @@ var AIRHORN *SoundCollection = &SoundCollection{
 		createSound("highfartshort", 200, 250),
 		createSound("midshort", 100, 250),
 		createSound("truck", 10, 250),
-		createSound("sad", 10, 250)
 	},
 }
 
